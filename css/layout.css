@@ -43,6 +43,6 @@ article {
         flex-wrap: wrap;
     }
     article {
-
+        background-color: blue;
     }
 }
