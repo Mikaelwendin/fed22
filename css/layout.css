@@ -39,8 +39,8 @@ article {
     .container {
         flex-direction: row;
         justify-content: flex-end;
-        /* gap:10px; */
-        /* flex-wrap: wrap; */
+        gap:10px;
+        flex-wrap: wrap;
     }
     article {
 
